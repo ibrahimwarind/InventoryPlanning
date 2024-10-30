@@ -1,0 +1,10 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+#RewriteCond %{HTTPS} off
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+
+RewriteRule ^DatabaseIndexing$ database_indexing.php?id=$1
+
+

@@ -1,0 +1,5715 @@
+ <!--<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">-->
+ <!--<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>-->
+
+
+ <table width="100%" border='1'>
+
+    <tr >
+        <th colspan="6" style='font-size:20px;background-color: skyblue;'>Purchase Stock Report 05-09-2024 To 18-09-2024</th>
+        <th style="background-color: skyblue;"></th>
+        <th style="background-color: skyblue;"></th>
+    </tr>
+
+    <tr >
+       <th style='background-color: gray;width:70px'><center>#</center></th>
+         <th style='background-color: gray;width:300px'><center>Item Name</center></th>
+         <th style="width:130px;background-color: gray;"><center>Opening Stock</center></th>
+          <th style="width:130px;background-color: gray;"><center>In Stock</center></th>
+           <th style="width:130px;background-color: gray;"><center>Out Stock</center></th>
+            <th style="width:130px;background-color: gray;"><center>Closing Stock</center></th>
+       <th><center style="font-weight: bold;color:black">Rate</center></th>
+                 <th><center style="font-weight: bold;color:black">Valuation</center></th>
+             
+            
+
+    </tr>
+  
+   
+<tr>
+
+              <td><center>1</center></td>
+              <td>16 mm 4 Core Cable</td>
+              <td><center>50  meter</center></td>
+              <td><center>0 meter</center></td>
+              <td><center>0 meter</center></td>
+              <td><center>50 meter</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,850.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>92,500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>2</center></td>
+              <td>300ml water Bottle × 16 pack</td>
+              <td><center>7  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>7 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>296.6</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>2,076.3</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>3</center></td>
+              <td>Additive Makeup Date Machine</td>
+              <td><center>28  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>28 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,650.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>46,200.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>4</center></td>
+              <td>Ajwaine</td>
+              <td><center>3.2  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>3.2 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>420.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,344.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>5</center></td>
+              <td>Al Madina Aaloo Paratha Polybag (3 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>6</center></td>
+              <td>Al Madina Aaloo Partha Polybag (3 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>7</center></td>
+              <td>Al Madina Chatpata Samosa Box (20 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>8</center></td>
+              <td>Al Madina Cocktail Roll Box (20 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>9</center></td>
+              <td>Al Madina Cocktail Samosa Box (20 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>10</center></td>
+              <td>Al Madina Garlic Nan Polybag (5 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>11</center></td>
+              <td>Al Madina Nan Multi Carton</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>12</center></td>
+              <td>Al Madina Onion Paratha Polybag (4 Pcs)</td>
+              <td><center>9000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>9000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>71,550.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>13</center></td>
+              <td>Al Madina Paratha Multi Carton </td>
+              <td><center>-700  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>-700 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>14</center></td>
+              <td>Al Madina Plain Paratha Polybag (20 Pcs)</td>
+              <td><center>16000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>16000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>127,200.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>15</center></td>
+              <td>Al Madina Plain Paratha Polybag (30 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>16</center></td>
+              <td>Al Madina Printed Tape</td>
+              <td><center>7  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>7 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,250.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>8,750.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>17</center></td>
+              <td>Al Madina Samosa Multi Carton</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>18</center></td>
+              <td>Al Madina Sheermal Polybag (5 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>19</center></td>
+              <td>Al Madina Tandori Nan Polybag (4 Pcs)</td>
+              <td><center>24000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>24000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>190,800.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>20</center></td>
+              <td>Al Madina Whole Wheat Paratha Polybag (20 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>21</center></td>
+              <td>Al Safa Aaloo Paratha Carton Sticker  00020</td>
+              <td><center>500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>22</center></td>
+              <td>Al Safa Aaloo Paratha Sticker (3 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>23</center></td>
+              <td>Al Safa Chatpata Samosa Box (20 Pcs)</td>
+              <td><center>4260  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>4260 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>41.5</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>176,790.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>24</center></td>
+              <td>Al safa Chatpata Samosa Box 20 Pcs 350 GSM</td>
+              <td><center>330  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>330 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>44.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>14,520.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>25</center></td>
+              <td>Al Safa Chatpata Samosa Carton Sticker  00015</td>
+              <td><center>840  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>840 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>3.9</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>3,276.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>26</center></td>
+              <td>Al Safa Cocktail Samosa Box 30 (Pcs)</td>
+              <td><center>2948  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2948 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>41.5</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>122,342.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>27</center></td>
+              <td>Al safa Cocktail Samosa Carton Sticker 00016</td>
+              <td><center>350  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>350 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>3.9</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,365.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>28</center></td>
+              <td>Al Safa Garlic Nan Carton Sticker</td>
+              <td><center>500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>5.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>2,500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>29</center></td>
+              <td>Al Safa Garlic Nan Sticker 5 pcs</td>
+              <td><center>7000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>7000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>5.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>35,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>30</center></td>
+              <td>Al Safa Nan Multi Carton</td>
+              <td><center>1800  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1800 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>90.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>162,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>31</center></td>
+              <td>Al Safa Onion paratha Carton Sticker 00021</td>
+              <td><center>500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>5.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>2,500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>32</center></td>
+              <td>Al Safa Onion Paratha Sticker (5 Pcs)</td>
+              <td><center>2500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>5.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>12,500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>33</center></td>
+              <td>Al Safa Paratha Multi Carton</td>
+              <td><center>380  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>380 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>87.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>33,060.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>34</center></td>
+              <td>Al Safa Plain Paratha 30 pieces Carton Sticker 0001</td>
+              <td><center>300  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>300 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>3.7</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,104.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>35</center></td>
+              <td>Al Safa plain Paratha Carton Sticker (20 Pcs) 00014</td>
+              <td><center>190  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>190 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>3.9</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>741.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>36</center></td>
+              <td>Al Safa Plain Paratha Polybag (20 Pcs)</td>
+              <td><center>25500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>25500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>13.3</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>337,875.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>37</center></td>
+              <td>Al Safa Plain Paratha Polybag (30 Pcs)</td>
+              <td><center>11800  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>11800 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>22.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>259,600.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>38</center></td>
+              <td>Al Safa Punjabi Samosa Box  (10 Pcs)</td>
+              <td><center>2200  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2200 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>41.5</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>91,300.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>39</center></td>
+              <td>Al Safa Punjabi Samosa Carton Sticker 00017</td>
+              <td><center>-35  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>-35 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>3.9</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>-136.5</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>40</center></td>
+              <td>Al Safa Samosa Multi Carton </td>
+              <td><center>150  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>150 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>177.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>26,550.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>41</center></td>
+              <td>Al Safa Sheermal  Carton</td>
+              <td><center>300  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>300 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>90.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>27,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>42</center></td>
+              <td>Al Safa Sheermal (5 Pcs)</td>
+              <td><center>42000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>42000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>6.8</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>285,600.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>43</center></td>
+              <td>Al safa Sheermal Sticker  0003</td>
+              <td><center>300  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>300 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>3.4</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,005.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>44</center></td>
+              <td>Al Safa Tandori Nan Carton Sticker 00018</td>
+              <td><center>1850  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1850 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>3.4</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>6,197.5</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>45</center></td>
+              <td>Al Safa Tandori Nan Polybag (15 Pcs)</td>
+              <td><center>18000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>18000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>25.6</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>459,900.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>46</center></td>
+              <td>Al Safa Whole Wheat Paratha Carton Sticker 00013</td>
+              <td><center>260  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>260 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>3.9</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,014.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>47</center></td>
+              <td>Al Safa Whole Wheat Paratha Polybag (20 Pcs)</td>
+              <td><center>38200  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>38200 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.5</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>324,700.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>48</center></td>
+              <td>Auto Press Machine Belt Conveyor(32.5*19 Inch) </td>
+              <td><center>2  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>3,200.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>6,400.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>49</center></td>
+              <td>Auto Press Machine Belt Conveyor(42.5*19 Inch) </td>
+              <td><center>2  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>3,800.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>7,600.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>50</center></td>
+              <td>Baking Powder</td>
+              <td><center>118.1  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>60.199999999999996 Kilogram</center></td>
+              <td><center>57.900000000003 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>340.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>19,686.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>51</center></td>
+              <td>Bason</td>
+              <td><center>50  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>50 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>385.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>19,250.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>52</center></td>
+              <td>Beard Mask</td>
+              <td><center>151  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>151 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>240.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>36,240.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>53</center></td>
+              <td>Black Papper</td>
+              <td><center>0.75  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0.75 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,680.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,260.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>54</center></td>
+              <td>Bopp Roll 15 Inch 30 Micron</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>55</center></td>
+              <td>Bopp Roll 16 Inch 25 Micron</td>
+              <td><center>2690.99  Kilogram</center></td>
+              <td><center>3224.35 Kilogram</center></td>
+              <td><center>1182.9 Kilogram</center></td>
+              <td><center>4732.44 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>540.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>2,555,517.6</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>56</center></td>
+              <td>BOPP Roll 16 Inches 30 Micron</td>
+              <td><center>0.0030000000042492  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0.0030000000042492 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>530.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1.6</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>57</center></td>
+              <td>Bopp Roll 30 Micron  32 Inch Non sealable</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>58</center></td>
+              <td>Bopp Roll 30 Micron 8 Inch (Met)</td>
+              <td><center>13  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>13 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>535.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>6,955.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>59</center></td>
+              <td>Bopp Roll 40 Micron</td>
+              <td><center>-5.6843418860808E-14  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>-5.6843418860808E-14 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>500.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>60</center></td>
+              <td>BOPP Sheet 30 Micron</td>
+              <td><center>5.0000000000073  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>5.0000000000073 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>625.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>3,125.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>61</center></td>
+              <td>Bopp Sheet 30 Micron ( Met)</td>
+              <td><center>-2.2737367544323E-13  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>-2.2737367544323E-13 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>545.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>62</center></td>
+              <td>Bopp Sheet 40 Micron</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>63</center></td>
+              <td>Bracker </td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>64</center></td>
+              <td>bread Crumb</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>65</center></td>
+              <td>Cabbage</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>66</center></td>
+              <td>Cable 4 Core 25 mm</td>
+              <td><center>0  Feet</center></td>
+              <td><center>0 Feet</center></td>
+              <td><center>0 Feet</center></td>
+              <td><center>0 Feet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>67</center></td>
+              <td>Cable 4 Core 50 mm</td>
+              <td><center>20  Feet</center></td>
+              <td><center>0 Feet</center></td>
+              <td><center>0 Feet</center></td>
+              <td><center>20 Feet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,350.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>27,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>68</center></td>
+              <td>Cable 4 Core 95 mm</td>
+              <td><center>22  meter</center></td>
+              <td><center>0 meter</center></td>
+              <td><center>0 meter</center></td>
+              <td><center>22 meter</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>11,350.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>249,700.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>69</center></td>
+              <td>Calcium Propionate</td>
+              <td><center>25.460000000002  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>35.92 Kilogram</center></td>
+              <td><center>-10.459999999998 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>805.1</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>-8,421.2</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>70</center></td>
+              <td>capsicum</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>71</center></td>
+              <td>Carrot</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>72</center></td>
+              <td>Cemitec Glue</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>73</center></td>
+              <td>Chabati Paratha Cartons</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>74</center></td>
+              <td>Chaiilogy Plain Paratha 20 Pcs Sticker</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>75</center></td>
+              <td>Chaiilogy Punjabi Samosa 20 Pcs Sticker</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>76</center></td>
+              <td>Chaiiology Plain Paratha  Carton 20 Pcs </td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>77</center></td>
+              <td>Chaiiology PUnjabi Samosa Carton 20 Pcs</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>78</center></td>
+              <td>Chakki Aata</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>79</center></td>
+              <td>Chana</td>
+              <td><center>150  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>150 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>415.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>62,250.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>80</center></td>
+              <td>Chana choor</td>
+              <td><center>2  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>2 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>500.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>81</center></td>
+              <td>Chat Masala</td>
+              <td><center>3  Kilogram</center></td>
+              <td><center>1 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>4 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>480.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,920.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>82</center></td>
+              <td>Chatpata Samosa Patti</td>
+              <td><center>1598  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>1598 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>160.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>255,680.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>83</center></td>
+              <td>Chatpata Samosa Sticker for Japan 900 gm</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>84</center></td>
+              <td>cheddar cheese</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>85</center></td>
+              <td>Chicken Breast</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>86</center></td>
+              <td>Chicken Leg</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>87</center></td>
+              <td>Chicken Powder</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>88</center></td>
+              <td>Chicken Thai</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>89</center></td>
+              <td>chips</td>
+              <td><center>6  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>6 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>90</center></td>
+              <td>Choti Elachi</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>91</center></td>
+              <td>Cleaning Items</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>92</center></td>
+              <td>Cocktail Roll Sticker for Japan 750 gm</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>93</center></td>
+              <td>Cocktail Samosa Patti</td>
+              <td><center>2000  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>2000 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>160.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>320,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>94</center></td>
+              <td>Cocktail Samosa Sticker for Japan 750 gm</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>95</center></td>
+              <td>Conveyor Belt 11.6Fit x18Inch</td>
+              <td><center>1  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>18,500.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>18,500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>96</center></td>
+              <td>Conveyor Belt Auto Press Machine(2 No)(Size 1290mmx480mm) </td>
+              <td><center>4  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>4 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>4,200.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>16,800.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>97</center></td>
+              <td>Conveyor Belt Auto Press Machine(2 No)(Size 335mmx480mm) </td>
+              <td><center>7  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>7 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,500.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>10,500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>98</center></td>
+              <td>Conveyor Belt Auto Press Machine(2 No)(Size 715mmx480mm) </td>
+              <td><center>4  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>4 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>2,800.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>11,200.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>99</center></td>
+              <td>Coriander Fresh</td>
+              <td><center>-0.25  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>-0.25 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>430.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>-107.5</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>100</center></td>
+              <td>Corinder Powder</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>101</center></td>
+              <td>Corn </td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>102</center></td>
+              <td>Cotton  Wast ( Duster)</td>
+              <td><center>381  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>381 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>275.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>104,775.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>103</center></td>
+              <td>Cresent Plain Paratha Poly Bag (20 Pcs)</td>
+              <td><center>12000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>12000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>95,400.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>104</center></td>
+              <td>Cresent Plain Paratha Poly Bag (30 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>105</center></td>
+              <td>Cresent Sheermal Poly Bag (5 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>106</center></td>
+              <td>Cresent Tandoori Nan Poly Bag (15 Pcs)</td>
+              <td><center>22000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>22000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>15.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>330,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>107</center></td>
+              <td>Cresent whole Wheat Paratha Poly Bag (20 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>108</center></td>
+              <td>Daal Chana</td>
+              <td><center>10  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>10 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>370.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>3,700.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>109</center></td>
+              <td>Daily Mixing Report</td>
+              <td><center>5  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>5 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>480.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>2,400.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>110</center></td>
+              <td>Daily Printing Report </td>
+              <td><center>5  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>5 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>480.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>2,400.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>111</center></td>
+              <td>Daily Production Report</td>
+              <td><center>5  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>5 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>480.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>2,400.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>112</center></td>
+              <td>Daily Quality inspection Report</td>
+              <td><center>10  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>10 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>280.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>2,800.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>113</center></td>
+              <td>Dal Masoor  Sabit </td>
+              <td><center>5  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>5 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>275.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,375.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>114</center></td>
+              <td>Dal Moong</td>
+              <td><center>10  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>10 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>360.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>3,600.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>115</center></td>
+              <td>Dal Moong Sabit</td>
+              <td><center>5  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>5 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>290.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,450.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>116</center></td>
+              <td>Data Logger</td>
+              <td><center>52  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>52 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>2,286.2</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>118,879.8</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>117</center></td>
+              <td>Date Machine  Ink</td>
+              <td><center>6  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>6 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>9,500.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>57,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>118</center></td>
+              <td>Date Machine  Washing Solvent</td>
+              <td><center>20  Litre</center></td>
+              <td><center>0 Litre</center></td>
+              <td><center>0 Litre</center></td>
+              <td><center>20 Litre</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,000.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>20,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>119</center></td>
+              <td>Digital Laser temperature Meter </td>
+              <td><center>1  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>5,800.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>5,800.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>120</center></td>
+              <td>Digital Probe temperature Meter </td>
+              <td><center>2  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>650.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,300.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>121</center></td>
+              <td>Disposable Apron</td>
+              <td><center>5  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>5 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>450.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>2,250.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>122</center></td>
+              <td>Dough Sheeter machine Conveyor Belt  112 x 22 Inch</td>
+              <td><center>10  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>10 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>9,000.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>90,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>123</center></td>
+              <td>Electric Cable (4 Core 35 mm) </td>
+              <td><center>0  Feet</center></td>
+              <td><center>0 Feet</center></td>
+              <td><center>0 Feet</center></td>
+              <td><center>0 Feet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>124</center></td>
+              <td>Empty Maida bag</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>125</center></td>
+              <td>Face Mask</td>
+              <td><center>2  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>2 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>250.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>126</center></td>
+              <td>Factory Hygiene and Sanitation</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>127</center></td>
+              <td>fine Atta</td>
+              <td><center>0  Bags</center></td>
+              <td><center>10 Bags</center></td>
+              <td><center>0 Bags</center></td>
+              <td><center>10 Bags</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>100.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>128</center></td>
+              <td>Floor Mat</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>129</center></td>
+              <td>food Colour</td>
+              <td><center>2  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>2 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>130</center></td>
+              <td>food Colour Green</td>
+              <td><center>2  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>2 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>131</center></td>
+              <td>food Colour Yellow</td>
+              <td><center>2  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>2 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>132</center></td>
+              <td>Four Seeds</td>
+              <td><center>0.5  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0.5 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>2,700.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,350.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>133</center></td>
+              <td>fresh Mint</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>134</center></td>
+              <td>Fresh Vegetables</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>135</center></td>
+              <td>Fried Onion</td>
+              <td><center>2  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>2 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>550.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,100.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>136</center></td>
+              <td>frist Aid Box</td>
+              <td><center>1  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>775.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>775.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>137</center></td>
+              <td>Garam Masala</td>
+              <td><center>0.75  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0.75 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>500.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>375.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>138</center></td>
+              <td>Garlic</td>
+              <td><center>15  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>15 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>570.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>8,550.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>139</center></td>
+              <td>Garlic Powder</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>140</center></td>
+              <td>Gas Cylinder</td>
+              <td><center>0.0050000000001091  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0.0050000000001091 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>270.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1.4</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>141</center></td>
+              <td>Gas Pipe</td>
+              <td><center>0  Feet</center></td>
+              <td><center>0 Feet</center></td>
+              <td><center>0 Feet</center></td>
+              <td><center>0 Feet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>142</center></td>
+              <td>Ghee</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>2 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>2 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>460.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>920.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>143</center></td>
+              <td>Ginger</td>
+              <td><center>0.0010000000000048  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0.0010000000000048 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>560.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.6</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>144</center></td>
+              <td>Ginger Powder</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>145</center></td>
+              <td>Glue Stick</td>
+              <td><center>0  Bags</center></td>
+              <td><center>0 Bags</center></td>
+              <td><center>0 Bags</center></td>
+              <td><center>0 Bags</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>146</center></td>
+              <td>Green Chili</td>
+              <td><center>54  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>54 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>280.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>15,120.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>147</center></td>
+              <td>Green Sauce Chutney</td>
+              <td><center>15000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>15000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>7.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>105,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>148</center></td>
+              <td>Grinder File</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>149</center></td>
+              <td>H.D Roll 16 Inch</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>150</center></td>
+              <td>Hair Cap </td>
+              <td><center>135  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>135 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>150.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>20,250.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>151</center></td>
+              <td>Halal Choice Plain Paratha Polybag (20 Pcs)</td>
+              <td><center>3500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>3500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>27,825.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>152</center></td>
+              <td>Halal Choice Plain Paratha Polybag (30 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>153</center></td>
+              <td>Halal Choice Plain Paratha Polybag (5 Pcs)</td>
+              <td><center>8000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>8000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>5.8</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>46,400.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>154</center></td>
+              <td>Halal Choice Tandoori Nan Polybag (4 Pcs)</td>
+              <td><center>22000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>22000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>174,900.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>155</center></td>
+              <td>Halal Choice Whole Wheat Paratha Polybag (20 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>156</center></td>
+              <td>Haldi</td>
+              <td><center>2.74  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>2.74 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>860.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>2,356.4</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>157</center></td>
+              <td>HD Plain Poly Bag 10x11</td>
+              <td><center>154.8  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>26 Kilogram</center></td>
+              <td><center>128.8 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>565.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>72,772.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>158</center></td>
+              <td>Ice</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>159</center></td>
+              <td>jacket</td>
+              <td><center>3  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>3 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>550.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,650.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>160</center></td>
+              <td>Jublee Clip</td>
+              <td><center>0  Feet</center></td>
+              <td><center>0 Feet</center></td>
+              <td><center>0 Feet</center></td>
+              <td><center>0 Feet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>161</center></td>
+              <td>Kadi Patta</td>
+              <td><center>0.2  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0.2 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>800.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>160.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>162</center></td>
+              <td>Kasuri Methi</td>
+              <td><center>1.96  Kilogram</center></td>
+              <td><center>0.4 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>2.36 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>600.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,416.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>163</center></td>
+              <td>khara soda</td>
+              <td><center>2  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>2 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>164</center></td>
+              <td>Khopra</td>
+              <td><center>0.5  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0.5 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>900.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>450.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>165</center></td>
+              <td>kishmish</td>
+              <td><center>1.25  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>1.25 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,400.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,750.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>166</center></td>
+              <td>Lab coat (Large)</td>
+              <td><center>41  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>41 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>581.8</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>23,854.5</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>167</center></td>
+              <td>Lab coat (Medium)</td>
+              <td><center>30  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>30 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>650.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>19,500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>168</center></td>
+              <td>Ladies Scarf</td>
+              <td><center>20  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>20 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>250.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>5,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>169</center></td>
+              <td>Lahori Aaloo Paratha Box (3 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>170</center></td>
+              <td>Lahori Aaloo Paratha Sticker (3 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>171</center></td>
+              <td>Lahori Chatpata Samosa Box (10 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>172</center></td>
+              <td>Lahori Chatpata Samosa Box (12 Pcs)</td>
+              <td><center>300  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>300 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>12.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>3,600.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>173</center></td>
+              <td>Lahori Chatpata Samosa Box (30 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>174</center></td>
+              <td>Lahori Cocktail Roll Box (50 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>175</center></td>
+              <td>Lahori Cocktail Samosa Box (50 Pcs)</td>
+              <td><center>1500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>15.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>22,500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>176</center></td>
+              <td>Lahori Dal Kachori Box (12 Pcs)</td>
+              <td><center>1500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>15.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>22,500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>177</center></td>
+              <td>Lahori Meat Less Samosa (12 Pcs)</td>
+              <td><center>1300  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1300 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>12.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>15,600.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>178</center></td>
+              <td>Lahori Onion Paratha Polybag (5 Pcs)</td>
+              <td><center>23000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>23000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>5.8</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>133,400.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>179</center></td>
+              <td>Lahori Onion Paratha Sticker (5 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>180</center></td>
+              <td>Lahori Plain Paratha Polybag (20 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>181</center></td>
+              <td>Lahori Plain Paratha Polybag (30 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>182</center></td>
+              <td>Lahori Plain Paratha Polybag (5 Pcs)</td>
+              <td><center>11000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>11000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>5.8</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>63,800.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>183</center></td>
+              <td>Lahori Punjabi Samosa Box (10 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>184</center></td>
+              <td>Lahori Punjabi Samosa Box (20 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>185</center></td>
+              <td>Lahori Punjabi Samosa Box (25 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>186</center></td>
+              <td>Lahori Puri Box (10 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>187</center></td>
+              <td>Lahori Puri Sticker (10 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>188</center></td>
+              <td>Lahori Qandhari Nan Polybag (5 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>189</center></td>
+              <td>Lahori Qandhari Nan Sticker (5 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>190</center></td>
+              <td>Lahori Sheermal Polybag (3 Pcs)</td>
+              <td><center>800  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>800 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>6,360.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>191</center></td>
+              <td>Lahori Taftan Polybag (3 Pcs)</td>
+              <td><center>12000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>12000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>95,400.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>192</center></td>
+              <td>Lahori Tandoori Nan Polybag (5 Pcs)</td>
+              <td><center>16000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>16000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>127,200.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>193</center></td>
+              <td>Lahori Vegi Roll Box (12 Pcs)</td>
+              <td><center>2750  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2750 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>12.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>33,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>194</center></td>
+              <td>Lahori Whole Wheat Chapatti Polybag (30 Pcs)</td>
+              <td><center>500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>10.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>5,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>195</center></td>
+              <td>Lahori Whole Wheat Paratha Polybag (30 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>196</center></td>
+              <td>Lamination Roll 8x8 Samosa Try Packing </td>
+              <td><center>45.15  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>45.15 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>600.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>27,090.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>197</center></td>
+              <td>Led Bulb</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>198</center></td>
+              <td>Lemon</td>
+              <td><center>2  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>2 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>420.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>840.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>199</center></td>
+              <td>Letter Head</td>
+              <td><center>1000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>8,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>200</center></td>
+              <td>macaroni </td>
+              <td><center>0  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>201</center></td>
+              <td>Magnifying Glass</td>
+              <td><center>2  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>750.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>202</center></td>
+              <td>Maida</td>
+              <td><center>1300  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>2500 Kilogram</center></td>
+              <td><center>-1200 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>87.6</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>-105,120.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>203</center></td>
+              <td>Margarine</td>
+              <td><center>2480  Kilogram</center></td>
+              <td><center>1600 Kilogram</center></td>
+              <td><center>2800 Kilogram</center></td>
+              <td><center>1280 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>384.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>491,525.5</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>204</center></td>
+              <td>Margarine Polybag</td>
+              <td><center>43.85  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>14.5 Kilogram</center></td>
+              <td><center>29.35 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>565.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>16,582.8</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>205</center></td>
+              <td>mayonnaise 2 kg</td>
+              <td><center>0  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>206</center></td>
+              <td>meetha Soda</td>
+              <td><center>0.25  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0.25 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>200.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>50.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>207</center></td>
+              <td>Milk Cream </td>
+              <td><center>0  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>208</center></td>
+              <td>Milk Powder</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>209</center></td>
+              <td>mozzarella cheese</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>210</center></td>
+              <td>MSG</td>
+              <td><center>3  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>3 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,200.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>3,600.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>211</center></td>
+              <td>Mustard Powder</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>212</center></td>
+              <td>Nutella Jar</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>213</center></td>
+              <td>Oil</td>
+              <td><center>87  Litre</center></td>
+              <td><center>2 Litre</center></td>
+              <td><center>0 Litre</center></td>
+              <td><center>89 Litre</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>470.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>41,830.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>214</center></td>
+              <td>olives 200gm</td>
+              <td><center>0  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>215</center></td>
+              <td>Onion</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>216</center></td>
+              <td>Pad lock</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>217</center></td>
+              <td>Pawa</td>
+              <td><center>12  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>12 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>218</center></td>
+              <td>Personal Protective Equipment</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>219</center></td>
+              <td>Pickle</td>
+              <td><center>51  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>51 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>500.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>25,500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>220</center></td>
+              <td>Pizza Souce</td>
+              <td><center>0.25  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0.25 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,200.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>300.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>221</center></td>
+              <td>Plain Matelize Poly  Bag 20 Pcs</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>222</center></td>
+              <td>Plain Nan Multi Carton</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>223</center></td>
+              <td>Plain Poly Bag (Pof)</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>224</center></td>
+              <td>Plain Poly Bag (Pof) 12×12  samosa Box Packing</td>
+              <td><center>29.5  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>29.5 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>825.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>24,337.5</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>225</center></td>
+              <td>Plain Poly bag Red Colour Large</td>
+              <td><center>12000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>12000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>6.3</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>75,600.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>226</center></td>
+              <td>Plain Poly bag Red Colour Small</td>
+              <td><center>24000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>24000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>5.6</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>134,400.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>227</center></td>
+              <td>Plain Punjabi Samosa Box  20 Pcs </td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>228</center></td>
+              <td>Plastic Crate </td>
+              <td><center>200  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>200 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>880.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>176,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>229</center></td>
+              <td>Plastic Tray</td>
+              <td><center>34596  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>34596 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>27.1</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>937,025.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>230</center></td>
+              <td>poppy seeds ( Kashkash)</td>
+              <td><center>0.5  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0.5 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>900.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>450.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>231</center></td>
+              <td>Potassium Sorbate</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>232</center></td>
+              <td>Potato</td>
+              <td><center>6  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>6 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>100.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>600.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>233</center></td>
+              <td>Punjabi Samosa Sticker for Japan 500 gm</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>234</center></td>
+              <td>R-134 Container Gas</td>
+              <td><center>14.5  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>14.5 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,629.6</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>23,629.6</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>235</center></td>
+              <td>R-22 Gas </td>
+              <td><center>144.1  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>144.1 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>2,076.9</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>299,284.2</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>236</center></td>
+              <td>Recipe Validation Report</td>
+              <td><center>5  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>5 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>480.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>2,400.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>237</center></td>
+              <td>Red Chilli Crush</td>
+              <td><center>0.59999999999999  Kilogram</center></td>
+              <td><center>1 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>1.6 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>860.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,376.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>238</center></td>
+              <td>Red Chilli Powder</td>
+              <td><center>3  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>3 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>760.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>2,280.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>239</center></td>
+              <td>Red Chilli Sauce</td>
+              <td><center>0  Litre</center></td>
+              <td><center>0 Litre</center></td>
+              <td><center>0 Litre</center></td>
+              <td><center>0 Litre</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>240</center></td>
+              <td>Red Chilli Sauce 400 Gm</td>
+              <td><center>0  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>241</center></td>
+              <td>Red Chilli Whole</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>242</center></td>
+              <td>Red Peanut</td>
+              <td><center>20  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>20 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>243</center></td>
+              <td>Red Sauce Chutney</td>
+              <td><center>14500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>14500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>7.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>101,500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>244</center></td>
+              <td>Riyas Chapatti Carton 20Pcs</td>
+              <td><center>5160  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>3140 Pieces</center></td>
+              <td><center>2020 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>82.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>165,640.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>245</center></td>
+              <td>Riyas Chapatti Carton 40 Pcs</td>
+              <td><center>110  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>110 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>190.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>20,900.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>246</center></td>
+              <td>Riyas Chapatti cartons 10 Pcs</td>
+              <td><center>200  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>200 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>79.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>15,800.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>247</center></td>
+              <td>Riyas Chapatti Poly Bag 10 Pcs</td>
+              <td><center>51000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>51000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>408,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>248</center></td>
+              <td>Riyas Chapatti Poly Bag 20 Pcs</td>
+              <td><center>15600  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>25100 Pieces</center></td>
+              <td><center>-9500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>11.1</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>-105,450.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>249</center></td>
+              <td>Riyas Chapatti Round Sticker 40 Pcs</td>
+              <td><center>200  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>200 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>5.5</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,100.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>250</center></td>
+              <td>Riyas Plain Paratha 40 Pcs Carton</td>
+              <td><center>350  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>350 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>193.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>67,550.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>251</center></td>
+              <td>Riyas Plain paratha Ctn  20 Pcs</td>
+              <td><center>1232  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1232 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>87.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>107,184.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>252</center></td>
+              <td>Riyas Plain Paratha Poly Bag 20 Pcs</td>
+              <td><center>33500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>33500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>10.2</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>341,700.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>253</center></td>
+              <td>Riyas Plain Paratha Pouch  40 Pcs</td>
+              <td><center>16470  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>16470 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>31.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>510,570.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>254</center></td>
+              <td>Riyas Printed Tape 45 mm</td>
+              <td><center>28  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>28 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>135.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>3,780.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>255</center></td>
+              <td>Roll Patti</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>256</center></td>
+              <td>Salt</td>
+              <td><center>809.40000000001  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>202.2 Kilogram</center></td>
+              <td><center>607.20000000001 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>13.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>7,893.6</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>257</center></td>
+              <td>Samosa Polybag</td>
+              <td><center>80  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>80 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>258</center></td>
+              <td>Sauces Chutney  Roll (120 mm)(90 Micron)</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>259</center></td>
+              <td>Sauces Chutney  Roll (91 mm)(80 Micron)</td>
+              <td><center>10.9  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>10.9 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>565.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>6,158.5</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>260</center></td>
+              <td>saunf</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>261</center></td>
+              <td>Screw Air Compressor Oil 68 G 2</td>
+              <td><center>20  Litre</center></td>
+              <td><center>0 Litre</center></td>
+              <td><center>0 Litre</center></td>
+              <td><center>20 Litre</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>565.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>11,300.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>262</center></td>
+              <td>sealing Machine Balt</td>
+              <td><center>36  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>36 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>83.3</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>3,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>263</center></td>
+              <td>Shahi Aaloo Paratha Box (3 Pcs)</td>
+              <td><center>1000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>25.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>25,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>264</center></td>
+              <td>Shahi Aaloo Paratha Sticker (3 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>265</center></td>
+              <td>Shahi Beef Shami Box (12 Pcs)</td>
+              <td><center>500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>26.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>13,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>266</center></td>
+              <td>Shahi Chatpata Samosa Box (12 Pcs)</td>
+              <td><center>2450  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2450 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>12.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>29,400.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>267</center></td>
+              <td>Shahi Chatpata Samosa Box (30 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>268</center></td>
+              <td>Shahi Chatpata Samosa Box 30 pcs</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>269</center></td>
+              <td>Shahi Chatpata Samosa Sticker for Japan 900 gm (30 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>270</center></td>
+              <td>Shahi Chicken Cheese Samosa Box (12 Pcs)</td>
+              <td><center>2400  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2400 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>26.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>62,400.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>271</center></td>
+              <td>Shahi Chicken Kofta Box (12 Pcs)</td>
+              <td><center>500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>26.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>13,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>272</center></td>
+              <td>Shahi Chicken Nuggets Box (12 Pcs)</td>
+              <td><center>900  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>900 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>30.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>27,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>273</center></td>
+              <td>Shahi Chicken Samosa Box (12 Pcs)</td>
+              <td><center>2700  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2700 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>26.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>70,200.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>274</center></td>
+              <td>Shahi Chicken Seekh Kabab Box (12 Pcs)</td>
+              <td><center>1000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>26.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>26,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>275</center></td>
+              <td>Shahi Chicken Shami Box (12 Pcs)</td>
+              <td><center>1050  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1050 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>26.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>27,300.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>276</center></td>
+              <td>Shahi Chicken Shot Box (12 Pcs)</td>
+              <td><center>1000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>30.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>30,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>277</center></td>
+              <td>Shahi Chicken spring Roll</td>
+              <td><center>2550  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2550 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>15.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>38,250.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>278</center></td>
+              <td>Shahi Cocktail Roll Box 50 (Pcs)</td>
+              <td><center>100  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>100 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>38.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>3,800.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>279</center></td>
+              <td>Shahi Cocktail Roll Box 50 pcs</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>280</center></td>
+              <td>Shahi Cocktail Roll Sticker for Japan 750 gm (50 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>281</center></td>
+              <td>Shahi Cocktail Samosa Box (50 Pcs)</td>
+              <td><center>100  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>100 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>38.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>3,800.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>282</center></td>
+              <td>Shahi Cocktail Samosa Sticker for Japan 750 gm (50 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>283</center></td>
+              <td>Shahi Dal Kachori Box (12 Pcs)</td>
+              <td><center>2000  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2000 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>25.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>50,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>284</center></td>
+              <td>Shahi Nan Multi Carton</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>285</center></td>
+              <td>Shahi Onion Paratha Polybag (5 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>286</center></td>
+              <td>Shahi Onion Paratha Sticker (5 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>287</center></td>
+              <td>Shahi Paratha Multi Carton</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>288</center></td>
+              <td>Shahi Plain Paratha Polybag (20 Pcs)</td>
+              <td><center>1200  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1200 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>9,540.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>289</center></td>
+              <td>Shahi Plain Paratha Polybag (30 Pcs)</td>
+              <td><center>13500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>13500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>108,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>290</center></td>
+              <td>shahi Plain Paratha Polybag (5 Pcs)</td>
+              <td><center>900  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>900 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.5</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>7,650.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>291</center></td>
+              <td>Shahi Plain Paratha Sticker For Japan (20 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>292</center></td>
+              <td>Shahi Plain Paratha Sticker For Japan (5 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>293</center></td>
+              <td>Shahi Printed Tape</td>
+              <td><center>9  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>9 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,250.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>11,250.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>294</center></td>
+              <td>Shahi Punjabi Samosa Box (10 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>295</center></td>
+              <td>Shahi Punjabi Samosa Box (20 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>296</center></td>
+              <td>Shahi Punjabi Samosa Box (25 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>297</center></td>
+              <td>Shahi Punjabi Samosa Box 10 pcs</td>
+              <td><center>200  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>200 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>38.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>7,600.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>298</center></td>
+              <td>Shahi Punjabi Samosa Box 50 pcs</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>299</center></td>
+              <td>Shahi Punjabi Samosa Sticker 1250 gm Japan (20 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>300</center></td>
+              <td>Shahi Punjabi Samosa Sticker 500 gm Japan (10 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>301</center></td>
+              <td>Shahi Puri Box (10 Pcs)</td>
+              <td><center>50  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>50 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>26.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>1,300.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>302</center></td>
+              <td>shahi Puri Sticker (10 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>303</center></td>
+              <td>Shahi Qandhari Nan Sticker (5 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>304</center></td>
+              <td>Shahi Samosa Multi Carton</td>
+              <td><center>300  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>300 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>86.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>25,800.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>305</center></td>
+              <td>Shahi Sheermal Sticker (3 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>306</center></td>
+              <td>Shahi Sheermal Sticker Japan (3 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>307</center></td>
+              <td>Shahi Taftan Polybag (3 Pcs)</td>
+              <td><center>3500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>3500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>27,825.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>308</center></td>
+              <td>Shahi Tandori Nan Polybag (5 Pcs)</td>
+              <td><center>2500  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2500 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>19,875.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>309</center></td>
+              <td>Shahi Whole Wheat Chapatti (30 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>310</center></td>
+              <td>Shahi Whole Wheat Paratha (30 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>311</center></td>
+              <td>Shahi Whole Wheat Paratha Sticker Japan (30 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>312</center></td>
+              <td>Shan Tikka Masala</td>
+              <td><center>8.3  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>8.3 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,300.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>10,790.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>313</center></td>
+              <td>shoe For labour</td>
+              <td><center>7  pear</center></td>
+              <td><center>0 pear</center></td>
+              <td><center>0 pear</center></td>
+              <td><center>7 pear</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,150.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>8,050.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>314</center></td>
+              <td>Sign Boards</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>315</center></td>
+              <td>sleeves</td>
+              <td><center>34  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>34 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>650.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>22,100.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>316</center></td>
+              <td>Sohaga</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>317</center></td>
+              <td>Soya Sauce</td>
+              <td><center>0  Litre</center></td>
+              <td><center>0 Litre</center></td>
+              <td><center>0 Litre</center></td>
+              <td><center>0 Litre</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>318</center></td>
+              <td>spaghetti</td>
+              <td><center>0  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>319</center></td>
+              <td>Spring onion</td>
+              <td><center>100  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>100 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>345.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>34,500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>320</center></td>
+              <td>Sugar</td>
+              <td><center>1016  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>373 Kilogram</center></td>
+              <td><center>643 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>160.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>102,880.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>321</center></td>
+              <td>Switzella Chocolate 5% Hazelnut</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>322</center></td>
+              <td>Taj Chapatti Carton 20Pcs</td>
+              <td><center>2154  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2154 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>87.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>187,398.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>323</center></td>
+              <td>Taj Chapatti Poly Bag 20 Pcs</td>
+              <td><center>13300  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>13300 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>10.2</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>135,660.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>324</center></td>
+              <td>Taj onion Paratha 5 Pcs Poly Bag</td>
+              <td><center>12950  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>12950 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>8.3</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>106,837.5</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>325</center></td>
+              <td>Taj onion Paratha Carton 5 Pcs </td>
+              <td><center>810  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>810 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>82.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>66,420.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>326</center></td>
+              <td>Taj paratha Cartons 5 Pcs</td>
+              <td><center>2700  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>2700 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>82.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>221,400.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>327</center></td>
+              <td>TAJ Paratha Multi Carton</td>
+              <td><center>5316  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>5316 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>87.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>462,492.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>328</center></td>
+              <td>Taj Plain Paratha Polybag (18 Pcs)</td>
+              <td><center>27022  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>27022 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>10.2</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>275,624.4</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>329</center></td>
+              <td>Taj Plain Paratha Polybags (5 Pcs)</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>330</center></td>
+              <td>Tape (1 Inch)</td>
+              <td><center>148  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>148 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>40.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>5,920.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>331</center></td>
+              <td>Tape (2 Inch)</td>
+              <td><center>-58  Pieces</center></td>
+              <td><center>162 Pieces</center></td>
+              <td><center>22 Pieces</center></td>
+              <td><center>82 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>275.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>22,550.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>332</center></td>
+              <td>tatr1</td>
+              <td><center>0.25  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0.25 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>480.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>120.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>333</center></td>
+              <td>Thermostat</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>334</center></td>
+              <td>Vinegar</td>
+              <td><center>0  Litre</center></td>
+              <td><center>0 Litre</center></td>
+              <td><center>0 Litre</center></td>
+              <td><center>0 Litre</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>335</center></td>
+              <td>Vinyl Gloves</td>
+              <td><center>32  Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>0 Packet</center></td>
+              <td><center>32 Packet</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>650.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>20,800.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>336</center></td>
+              <td>Water Bottle</td>
+              <td><center>61  Pieces</center></td>
+              <td><center>7 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>68 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>150.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>10,200.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>337</center></td>
+              <td>Water Tank</td>
+              <td><center>1  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>5,740.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>5,740.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>338</center></td>
+              <td>weight Scale 1 GM To 2 Kg</td>
+              <td><center>1  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>3,500.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>3,500.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>339</center></td>
+              <td>weight Scale 10 GM To 20 Kg</td>
+              <td><center>1  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>6,000.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>6,000.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>340</center></td>
+              <td>Weight Scale 10 mg to 200 gm</td>
+              <td><center>1  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>1 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>2,200.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>2,200.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>341</center></td>
+              <td>weight Scale 100 GM To 100 Kg</td>
+              <td><center>0  Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+              <td><center>0 Pieces</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>342</center></td>
+              <td>White peanut</td>
+              <td><center>50  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>50 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>343</center></td>
+              <td>White Pepper</td>
+              <td><center>0  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>344</center></td>
+              <td>White Soda</td>
+              <td><center>3  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>3 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>150.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>450.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>345</center></td>
+              <td>White Til</td>
+              <td><center>1  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>1 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>850.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>850.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>346</center></td>
+              <td>Whole Coriander</td>
+              <td><center>1.36  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>1.36 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>500.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>680.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>347</center></td>
+              <td>whole wheat flour</td>
+              <td><center>5138  Kilogram</center></td>
+              <td><center>4960 Kilogram</center></td>
+              <td><center>10098 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>348</center></td>
+              <td>Zeera Powder</td>
+              <td><center>1.5  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>1.5 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>0.0</b></td>
+              
+
+
+          </tr>
+
+
+<tr>
+
+              <td><center>349</center></td>
+              <td>Zeera Whole</td>
+              <td><center>4.63  Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>0 Kilogram</center></td>
+              <td><center>4.63 Kilogram</center></td>
+               <td style='padding:8px'><b style='color:black;padding:4px'>1,650.0</b></td>
+              <td style='padding:8px'><b style='color:black;padding:4px'>7,639.5</b></td>
+              
+
+
+          </tr>
+
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td><td></td>
+      <td></td>
+      <td></td>
+    <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td><td></td>
+      <td></td>
+      <td></td>
+    <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td><td></td>
+      <td></td>
+      <td></td>
+    <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td><td></td>
+      <td></td>
+      <td></td>
+    <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td><td></td>
+      <td></td>
+      <td></td>
+    <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td><td></td>
+      <td></td>
+      <td></td>
+    <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td><td></td>
+      <td></td>
+      <td></td>
+    <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td><td></td>
+      <td></td>
+      <td></td>
+    <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+      
+</table> 
